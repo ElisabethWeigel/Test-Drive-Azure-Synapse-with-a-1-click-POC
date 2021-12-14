@@ -515,7 +515,7 @@
 					},
 					"SQLDedicatedPoolName": {
 						"type": "string",
-						"defaultValue": "msftdiwdctxj55opepocws1/msftdiwdctxj55opepocws1p1"
+						"defaultValue": "msftdiwdctxj55opepocws1p1"
 					},
 					"SQLLoginUsername": {
 						"type": "string",
@@ -527,7 +527,7 @@
 					},
 					"datalakeAccountName": {
 						"type": "string",
-						"defaultValue": "https://msftdiwdctxj55opepoc.dfs.core.windows.net/"
+						"defaultValue": "msftdiwdctxj55opepoc"
 					}
 				},
 				"folder": {
@@ -1316,7 +1316,7 @@
 						"spark.dynamicAllocation.enabled": "false",
 						"spark.dynamicAllocation.minExecutors": "2",
 						"spark.dynamicAllocation.maxExecutors": "2",
-						"spark.autotune.trackingId": "0c19c461-3cc9-4b14-b299-4c0841845e1e"
+						"spark.autotune.trackingId": "c3b5bf51-288e-4999-be1a-a11f7b351eac"
 					}
 				},
 				"metadata": {
