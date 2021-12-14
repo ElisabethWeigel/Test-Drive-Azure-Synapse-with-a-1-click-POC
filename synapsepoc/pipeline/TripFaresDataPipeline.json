@@ -469,7 +469,7 @@
 			},
 			"SQLDedicatedPoolName": {
 				"type": "string",
-				"defaultValue": "msftdiwdctxj55opepocws1/msftdiwdctxj55opepocws1p1"
+				"defaultValue": "msftdiwdctxj55opepocws1p1"
 			},
 			"SQLLoginUsername": {
 				"type": "string",
@@ -481,7 +481,7 @@
 			},
 			"datalakeAccountName": {
 				"type": "string",
-				"defaultValue": "https://msftdiwdctxj55opepoc.dfs.core.windows.net/"
+				"defaultValue": "msftdiwdctxj55opepoc"
 			}
 		},
 		"folder": {
